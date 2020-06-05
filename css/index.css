@@ -286,7 +286,24 @@ nav a {
 .block {
   flex-basis: 30%;
 }
-.about-me p {
+.about-me .block {
   border-bottom: 1px dashed black;
-  padding-bottom: 1.3rem;
+  padding-bottom: 2rem;
+}
+a.learn-more {
+  text-decoration: none;
+  border: 2px solid black;
+  padding: 0.4rem 1.5rem;
+  border-radius: 10px;
+  color: black;
+  margin-bottom: 2rem;
+}
+.about-me p {
+  margin-bottom: 2rem;
+}
+.first {
+  border-bottom: 1px dashed black;
+}
+.last {
+  padding-top: 2rem;
 }
