@@ -306,4 +306,11 @@ a.learn-more {
 }
 .last {
   padding-top: 2rem;
+  width: 97%;
+  margin: 0 auto;
+}
+.first p,
+.first h1 {
+  width: 97%;
+  margin: 15px auto;
 }

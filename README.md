@@ -40,10 +40,13 @@ Edit this document to include your answers after each question. Make sure to lea
    Display: inline - Elements are only as big as their content, can begin within a line.
 
 3. What are the 4 areas of the box model?
+   Content, Padding, Border, Margin
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
+   Cross-axis
 
 5. Explain why git is valuable to a team of developers.
+   Every person on the team can fork and clone a copy of a repo and each person can work on a specific aspect of a project without interfering with the master branch. Then, all the changes can be reviewed and merged with the master.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
